@@ -32,7 +32,7 @@ int main()
 
 -> Output :
 
-Enter the string: a=b= +c*e+d  +250
+Enter the string: a=b+c*e+d+250
 Identifiers: a b c e 
 Constants: 250 
 Operators: = + * + 
