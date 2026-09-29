@@ -19,5 +19,5 @@ int main()
 
 -> Ouput :
 
-Enter comment: // h Hello
+Enter comment: // Hello
 It is a comment
